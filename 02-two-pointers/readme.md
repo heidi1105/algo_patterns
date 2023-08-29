@@ -12,9 +12,6 @@
 - sliding window
 
 
-## Steps
-
-
 ## Questions
 Warm-up
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
