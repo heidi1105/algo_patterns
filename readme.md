@@ -1,4 +1,10 @@
-## Fundamentals
+## Resources 
+- [Leetcode](https://leetcode.com/problems/)
+- [Neetcode 150](https://neetcode.io/practice)
+- [Grokking Coding Interview Patterns](https://github.com/dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions)
+- Google!
+  
+## Fundamentals/ Prerequisites
 - Swap 2 numbers in-place
 - Iterating through an array 
 - Iterating through an object
@@ -8,12 +14,6 @@
 - Knowledge of heap, stack, queues
 - Basic operations of linkedList (How to iterate through a linkedList) 
 - Concepts on DFS & BFS
-
-## Resources 
-- Leetcode
-- Neetcode
-- Grokking Coding Interview Patterns
-- Google!
 
 ## Grokking Coding Patterns
 1. Hashmap & Set (Remove Duplicates, two sums) 
