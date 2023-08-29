@@ -1,4 +1,4 @@
-# String & Hashmap
+# Two-pointers
 
 
 ## Concept
@@ -13,10 +13,7 @@
 
 
 ## Steps
-1. Decide on the table type you need (set? hashmap? What should be the key & what should be the values) and instantiate it. 
-2. Putting elements into the hashmap (Takes O(n))
-3. After the hashmap is created, how to retrieve the data to complete the task
-   - If-statement? .sort first? Loop through the map?
+
 
 ## Questions
 Warm-up
